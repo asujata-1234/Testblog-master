@@ -10,7 +10,7 @@ Example keyword can only be used with the Scenario Outline Keyword.
 
 Scenario Outline – This is used to run the same scenario for 2 or more different set of test data. E.g. In our scenario, if you want to register another user you can data drive the same scenario twice.
 Examples – All scenario outlines have to be followed with the Examples section. This contains the data that has to be passed on to the scenario.
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works..
 
 Jekyll also offers powerful support for code snippets:
 
