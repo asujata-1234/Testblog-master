@@ -5,13 +5,12 @@ exclude: 'yes'
 ---
 
 /* TEAM */
-Developer & Designer: Josh Gerdes
-Twitter: @joshgerdes
+Test Engineer : Sujata Avirneni
+Twitter: 
 Site: http://joshgerdes.com
-Location: Minneapolis, MN, USA
+Location: Johns Creek, GA, USA
 						
-/* THANKS */
-Name: Dale Anthony
+
 
 /* SITE */
 Last update: {{ site.time | date: "%Y/%m/%d" }}
